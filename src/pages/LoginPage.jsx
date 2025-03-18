@@ -7,7 +7,7 @@ export default function LoginPage(){
                 <h1>Sign In</h1>
                 <div className="login-input">
                     <label htmlFor="email"></label>
-                    <input type="text" id='email' placeholder='Enter emial' />
+                    <input type="text" id='email' placeholder='Enter email' />
                 </div>
                 <div className="login-input">
                     <label htmlFor="login-password"></label>

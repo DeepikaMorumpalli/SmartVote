@@ -7,9 +7,9 @@ export default function Welcome() {
                 <div className="home-container">
                     <div className="image-div-content">
                         <div className="home-content">
-                            <p className="alignment">We are committed to revolutionzing the democratic process through innovatiove online Voting solutions. Our platform is designed to empower individuals and organizations by providing a secure, accessible, and transparent voting experience.</p> <br />
+                            <p className="alignment">We are committed to revolutionizing the democratic process through innovative online Voting solutions. Our platform is designed to empower individuals and organizations by providing a secure, accessible, and transparent voting experience.</p> <br />
                             <p className="alignment">
-                                We're delighted to have you join us in shaping the future through thr power of your vote. Our online voting platform has been designed to make the voting process convienient secure, and accessible to all eligible participants. Whether you're casting your vote for local elections, national intiatives, or organizational decision, your matters.
+                                We're delighted to have you join us in shaping the future through the power of your vote. Our online voting platform has been designed to make the voting process convenient secure, and accessible to all eligible participants. Whether you're casting your vote for local elections, national intiatives, or organizational decision, your matters.
                             </p>
                         </div>
                         <img src="/src/assets/SmartVote-img.jpeg" alt="image" className="welcomePage-img" />
